@@ -1,0 +1,21 @@
+Global Economic Outlook and Technology Investment
+
+The global technology landscape is undergoing significant shifts propelled by fast-moving innovations. McKinsey's Technology Trends Outlook highlights thirteen frontier technology trends with potential to transform global business. Artificial intelligence dominates the agenda exponentially increasing demand for computing power and capturing management attention across industries.
+
+Private equity and venture capital investment in technology remains robust despite economic uncertainty. Companies race to secure leadership in producing and applying strategic technologies. Investment data across venture capital corporate strategic mergers and acquisitions shows continued strong activity in artificial intelligence quantum computing and biotechnology sectors.
+
+Three years since the introduction of generative AI tools nearly nine out of ten survey respondents say their organizations are regularly using AI. However the pace of progress remains uneven. While AI tools are now commonplace most organizations have not yet embedded them deeply enough into their workflows and processes to realize material enterprise-level benefits.
+
+The question everyone in AI is asking focuses on GPU depreciation and how long before these expensive processors lose value. As companies plan to spend one trillion dollars over the next five years on data centers for artificial intelligence depreciation becomes increasingly important. Infrastructure giants like Google Oracle and Microsoft have said their servers could be useful for up to six years.
+
+Amazon decreased the useful life for a subset of its servers from six years to five years after conducting a study that found an increased pace of technology development particularly in artificial intelligence and machine learning. Microsoft CEO Satya Nadella said his company is trying to space out AI chip purchases and not overinvest in a single generation of processors.
+
+The OECD concluded that accelerated climate action provides economic gains. Under an Enhanced NDCs scenario global GDP in 2040 would be 0.2 percent higher than under current policies. This finding challenges the narrative that environmental protection hinders economic growth instead suggesting climate action drives prosperity and creates new economic opportunities.
+
+Einride the Swedish autonomous trucking startup plans to go public via SPAC after raising 100 million dollars. The company has raised over 600 million total developing driverless electric pods and freight orchestration software. This reflects growing investor confidence in autonomous vehicle technology and the electrification of commercial transportation.
+
+Turkcell signed a cooperation agreement with Google focused on cloud technologies positioning for public sector and industrial AI opportunities. These partnerships reflect how telecommunications companies and cloud providers are reshaping enterprise IT in growth markets. The convergence of 5G networks edge computing and cloud services enables new applications and business models.
+
+POET Technologies and Quantum Computing Inc announced collaboration to co-develop optical engines for next-generation AI connectivity. The quantum computing sector is experiencing rapid growth as companies race to achieve quantum advantage for real-world problems. Industries from pharmaceuticals to finance are exploring quantum computing applications for drug discovery optimization problems and cryptography.
+
+The useful lifespan of AI infrastructure is a key issue for investors as tech giants plan massive spending on artificial intelligence capabilities. Cost competitiveness and stronger policy support are spurring faster growth of technology adoption in emerging economies across Asia the Middle East and Africa signaling a global shift in innovation centers.

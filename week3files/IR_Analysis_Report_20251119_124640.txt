@@ -1,0 +1,290 @@
+================================================================================
+INFORMATION RETRIEVAL SYSTEM - ANALYSIS REPORT
+================================================================================
+Generated: 2025-11-19 12:46:40
+
+1. SYSTEM OVERVIEW
+--------------------------------------------------------------------------------
+Documents: 10
+Queries: 10
+Vocabulary: 4957 unique terms
+
+2. DOCUMENTS
+--------------------------------------------------------------------------------
+1. article_01_ai_breakthroughs.txt
+2. article_02_climate_crisis.txt
+3. article_03_renewable_energy.txt
+4. article_04_space_exploration.txt
+5. article_05_cybersecurity.txt
+6. article_06_healthcare_innovations.txt
+7. article_07_economic_trends.txt
+8. article_08_emerging_tech.txt
+9. article_09_sports_highlights.txt
+10. article_10_quantum_computing.txt
+
+3. QUERIES
+--------------------------------------------------------------------------------
+Query 1: artificial intelligence machine learning neural networks
+Query 2: climate change global warming carbon emissions
+Query 3: renewable energy solar wind power generation
+Query 4: space exploration Mars missions astronomy discoveries
+Query 5: cybersecurity data breach hacking threats
+Query 6: healthcare medical innovations biotechnology
+Query 7: quantum computing technology advances
+Query 8: sports championships basketball football achievements
+Query 9: economic trends technology investment
+Query 10: emerging technologies innovation scientific breakthroughs
+
+4. TOP DISTINCTIVE TERMS
+--------------------------------------------------------------------------------
+100                            IDF: 2.7047
+álvarez allegiant              IDF: 2.7047
+álvarez                        IDF: 2.7047
+zero trust                     IDF: 2.7047
+zero                           IDF: 2.7047
+young talent                   IDF: 2.7047
+young                          IDF: 2.7047
+yoshua bengio                  IDF: 2.7047
+yoshua                         IDF: 2.7047
+years years                    IDF: 2.7047
+
+5. RANKINGS
+--------------------------------------------------------------------------------
+
+Query 1: artificial intelligence machine learning neural networks
+--------------------------------------------------------------------------------
+
+Rank 1: article_01_ai_breakthroughs.txt
+Similarity: 0.148116
+Interpretation: Somewhat relevant
+
+Rank 2: article_07_economic_trends.txt
+Similarity: 0.112955
+Interpretation: Somewhat relevant
+
+Rank 3: article_05_cybersecurity.txt
+Similarity: 0.048285
+Interpretation: Low relevance
+
+Rank 4: article_06_healthcare_innovations.txt
+Similarity: 0.031343
+Interpretation: Low relevance
+
+Rank 5: article_10_quantum_computing.txt
+Similarity: 0.029030
+Interpretation: Low relevance
+
+Query 2: climate change global warming carbon emissions
+--------------------------------------------------------------------------------
+
+Rank 1: article_02_climate_crisis.txt
+Similarity: 0.209994
+Interpretation: Moderately relevant
+
+Rank 2: article_03_renewable_energy.txt
+Similarity: 0.033809
+Interpretation: Low relevance
+
+Rank 3: article_06_healthcare_innovations.txt
+Similarity: 0.030162
+Interpretation: Low relevance
+
+Rank 4: article_08_emerging_tech.txt
+Similarity: 0.026737
+Interpretation: Low relevance
+
+Rank 5: article_07_economic_trends.txt
+Similarity: 0.024368
+Interpretation: Low relevance
+
+Query 3: renewable energy solar wind power generation
+--------------------------------------------------------------------------------
+
+Rank 1: article_03_renewable_energy.txt
+Similarity: 0.346090
+Interpretation: Highly relevant
+
+Rank 2: article_02_climate_crisis.txt
+Similarity: 0.106133
+Interpretation: Somewhat relevant
+
+Rank 3: article_08_emerging_tech.txt
+Similarity: 0.068662
+Interpretation: Somewhat relevant
+
+Rank 4: article_04_space_exploration.txt
+Similarity: 0.018890
+Interpretation: Low relevance
+
+Rank 5: article_10_quantum_computing.txt
+Similarity: 0.013727
+Interpretation: Low relevance
+
+Query 4: space exploration Mars missions astronomy discoveries
+--------------------------------------------------------------------------------
+
+Rank 1: article_04_space_exploration.txt
+Similarity: 0.331714
+Interpretation: Highly relevant
+
+Rank 2: article_07_economic_trends.txt
+Similarity: 0.009953
+Interpretation: Low relevance
+
+Rank 3: article_01_ai_breakthroughs.txt
+Similarity: 0.000000
+Interpretation: Low relevance
+
+Rank 4: article_02_climate_crisis.txt
+Similarity: 0.000000
+Interpretation: Low relevance
+
+Rank 5: article_03_renewable_energy.txt
+Similarity: 0.000000
+Interpretation: Low relevance
+
+Query 5: cybersecurity data breach hacking threats
+--------------------------------------------------------------------------------
+
+Rank 1: article_05_cybersecurity.txt
+Similarity: 0.221333
+Interpretation: Moderately relevant
+
+Rank 2: article_01_ai_breakthroughs.txt
+Similarity: 0.018714
+Interpretation: Low relevance
+
+Rank 3: article_10_quantum_computing.txt
+Similarity: 0.016306
+Interpretation: Low relevance
+
+Rank 4: article_07_economic_trends.txt
+Similarity: 0.011179
+Interpretation: Low relevance
+
+Rank 5: article_04_space_exploration.txt
+Similarity: 0.005360
+Interpretation: Low relevance
+
+Query 6: healthcare medical innovations biotechnology
+--------------------------------------------------------------------------------
+
+Rank 1: article_06_healthcare_innovations.txt
+Similarity: 0.149671
+Interpretation: Somewhat relevant
+
+Rank 2: article_07_economic_trends.txt
+Similarity: 0.029423
+Interpretation: Low relevance
+
+Rank 3: article_01_ai_breakthroughs.txt
+Similarity: 0.011694
+Interpretation: Low relevance
+
+Rank 4: article_08_emerging_tech.txt
+Similarity: 0.010138
+Interpretation: Low relevance
+
+Rank 5: article_02_climate_crisis.txt
+Similarity: 0.000000
+Interpretation: Low relevance
+
+Query 7: quantum computing technology advances
+--------------------------------------------------------------------------------
+
+Rank 1: article_10_quantum_computing.txt
+Similarity: 0.440451
+Interpretation: Highly relevant
+
+Rank 2: article_07_economic_trends.txt
+Similarity: 0.214775
+Interpretation: Moderately relevant
+
+Rank 3: article_08_emerging_tech.txt
+Similarity: 0.123079
+Interpretation: Somewhat relevant
+
+Rank 4: article_06_healthcare_innovations.txt
+Similarity: 0.028969
+Interpretation: Low relevance
+
+Rank 5: article_04_space_exploration.txt
+Similarity: 0.028129
+Interpretation: Low relevance
+
+Query 8: sports championships basketball football achievements
+--------------------------------------------------------------------------------
+
+Rank 1: article_09_sports_highlights.txt
+Similarity: 0.188050
+Interpretation: Moderately relevant
+
+Rank 2: article_01_ai_breakthroughs.txt
+Similarity: 0.000000
+Interpretation: Low relevance
+
+Rank 3: article_02_climate_crisis.txt
+Similarity: 0.000000
+Interpretation: Low relevance
+
+Rank 4: article_03_renewable_energy.txt
+Similarity: 0.000000
+Interpretation: Low relevance
+
+Rank 5: article_04_space_exploration.txt
+Similarity: 0.000000
+Interpretation: Low relevance
+
+Query 9: economic trends technology investment
+--------------------------------------------------------------------------------
+
+Rank 1: article_07_economic_trends.txt
+Similarity: 0.204892
+Interpretation: Moderately relevant
+
+Rank 2: article_08_emerging_tech.txt
+Similarity: 0.041301
+Interpretation: Low relevance
+
+Rank 3: article_01_ai_breakthroughs.txt
+Similarity: 0.011888
+Interpretation: Low relevance
+
+Rank 4: article_10_quantum_computing.txt
+Similarity: 0.011511
+Interpretation: Low relevance
+
+Rank 5: article_03_renewable_energy.txt
+Similarity: 0.009907
+Interpretation: Low relevance
+
+Query 10: emerging technologies innovation scientific breakthroughs
+--------------------------------------------------------------------------------
+
+Rank 1: article_08_emerging_tech.txt
+Similarity: 0.140482
+Interpretation: Somewhat relevant
+
+Rank 2: article_07_economic_trends.txt
+Similarity: 0.044734
+Interpretation: Low relevance
+
+Rank 3: article_10_quantum_computing.txt
+Similarity: 0.026782
+Interpretation: Low relevance
+
+Rank 4: article_06_healthcare_innovations.txt
+Similarity: 0.016909
+Interpretation: Low relevance
+
+Rank 5: article_03_renewable_energy.txt
+Similarity: 0.007094
+Interpretation: Low relevance
+
+
+6. STATISTICS
+--------------------------------------------------------------------------------
+Average: 0.0721
+Maximum: 0.4405
+Minimum: 0.0000
+Std Dev: 0.1006
